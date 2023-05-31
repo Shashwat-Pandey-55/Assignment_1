@@ -1,1 +1,5 @@
-
+Git is a repository that contains files, history, and configuration. There are four stages of Git:
+i) working directory; ii) staging area; iii) commit; and iv) remote repository.
+I learned how to create repositories in Github and push local files into Github through Git with the help of various commands such as 'git init', 'git add <filename>' and 'git commit'. Also how to clone the repositories into the local system by using commands like 'git clone <HTTPS_address>'.
+The status of the repositories can also be checked by 'git status' which tells whether the commit is required to be made or the working directory is clear. Git's and Github's default branch names can also be changed. Either the change can be done in Github or in Git through the command 'git branch -m <old-branch-name> <new-branch-name>'.
+The Git's default is 'master' and the Github's default is 'main'. These can be changed by making the changes. Changes can also be published to Github by executing "git push origin master'.
