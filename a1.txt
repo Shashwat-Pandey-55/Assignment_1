@@ -1,0 +1,18 @@
+The international community is adopting AI technology to exploit electronic medical record (EMR) data to increase medical big data use. 
+By categorising patient features, AI can anticipate illness occurrence or provide personalised treatment.
+Standardising and refining EMR data improves AI research. To protect the patient's privacy, and to improve EMR quality,
+AI is needed to collate EMR data.
+
+Korean researchers want to structure and standardise medical data for clinical application. 
+EMR data quality and collection must be managed to maximise clinical use-value. AI algorithm development involves medical and analysis 
+expertise, data preprocessing technology, and structured, high-quality EMR data. Structured, semi-structured,
+and unstructured EMR data exist.
+
+Semi-structured data can be altered, while structured data are predetermined. Unstructured data are irregularly shaped and
+hard to characterise. Image data can be quickly collected because data quality management is not needed.
+AI improves hospital operations, patient management, and treatment. Big data platforms and biohealth R&D expenditures are planned in Korea.
+
+An ECG-validated deep-learning-based artificial intelligence algorithm (DLA) predicted cardiac arrest in one research. 
+Medical data research should be ethical and legal. Data standardisation, domain knowledge enhancements, and privacy are crucial.
+Linking and integrating big data from other institutions is doable, but hospitals should discussbeforehand. 
+Read the "Guideline for Pseudonymization" or "Guideline for Utilisation of Healthcare Data" beforehand.
