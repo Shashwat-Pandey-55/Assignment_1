@@ -1,3 +1,19 @@
 In this course of Linux Shell Scripting, i learnt about shell, different commands used to operate shell file, what all commands we need to 
 use to operate the file on terminal, how to remove script and many more.
+A shell script is a text file that contains a series of commands. I came to know that any work you can do on the command line can be automated
+via shell script. Before we can execute the file as a script, we need to give execution permissions. To give execution permissions we use 
+the command -> chmod +x file_name.sh
+And to execute the file we use ./file_name.sh
+To remove the script we use the command -> rm file_name.sh
+If we donot use the chmod command we get the promt = permission denied. We use the command ls -l file_name.sh to see what all permissions the
+file_name.sh has. In order to execute the script file we need to have both read and execute permission on that file.
+#!/bin/bash --> SHEBANG = determines what program executes the command listed in the file.
+I also learnt that echo is a shell built in command (part of bash). We use type command to check whether a command is shellbuilt in or not.
+Then i learnt about various kinds of methods by which we can declare variables and many errors we commit while using them.
+Mostly we use upper case letters as variables. It is by convention and not by syntax. 
+For declaring comments we use # and then write lines explaining the code.
+To get root user previliges we use the command -> sudo ./got-root.sh
+Root USER ID in linux is 0. To exit the root account we use the command -> exit
+I also learnt about conditionals (if else) in this course.
+This course was great in terms of knowledge and compactness.
 
