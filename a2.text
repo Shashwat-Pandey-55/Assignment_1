@@ -1,0 +1,29 @@
+Medical prescriptions and other information are stored electronically by doctors, patients, and others.
+This research proposes an AI-assisted blockchain-based system to store and process medical records utilising AI techniques like OCR
+to create a single patient medical history report. For ease of use and storage on a decentralised blockchain network,
+this report delivers only the essential information. 5G networks are intended to fix 4G network difficulties, while blockchain technology
+can retain persistent and transparent data logs. 5G connection, artificial intelligence, and blockchain can help electronic medical record
+(EMR) systems save billions of dollars annually.
+
+This essay emphasises that a systematic patient history is the most significant diagnostic factor. A survey found that over 50% of
+physicians considered patient history the most important diagnostic factor. Ambivalent and confusing information can lead to medication
+repeat and accidental neglect of crucial facts. Due to uncertain diagnosis, doctors may refuse emergency cases and redirect them to other
+institutions.
+EMR systems improve data storage and retrieval. Unlike non-digital systems, it draws and maintains patient information digitally and can
+replace or supplement healthcare data storage. EMRs are growing more popular, yet they are expensive and difficult to implement.
+A blockchain-based medical record management system and machine learning and deep learning image analysis models have been suggested and 
+explored. Data disclosure remains a concern for the system.
+
+The suggested network model architecture, which includes a web front-end, IPFS file storage, blockchain storage, and machine learning model
+processing, is the most important part of this book. The user-friendly front-end platform presents the case concisely. 
+The network model has four parts: a web front-end, IPFS file storage, blockchain storage, and machine learning model processing. 
+The Ethereum React Truffle box builds decentralised apps. SimpleStorage.sol stores the IPFS reference (hash) on the blockchain.
+
+Rescaling, shadow removal, noise reduction, and binarization are used to optimise images. The image is binarized to improve results.
+This study describes a 5G-based Ethereum blockchain and IPFS dApp for patient document storage and maintenance. 
+The AI-powered Tesseract OCR Engine reads handwritten prescriptions. Microsoft Azure Computer Vision Cognitive Service API does picture OCR
+analysis.
+
+Blockchains store IPFS hashes to reduce expenses. Type 1 and Type 3 documents undergo several preprocessing filters before being processed
+by the AI-based Tesseract OCR. Preprocessing photos improves model performance 4.698%. Optimised decentralisation ensures security without
+sacrificing patient identity.
