@@ -1,1 +1,25 @@
+In this article author, Jason Kulatunga explains why he wanted  single (private) location to store our medical records. 
+So he built a software named Fasten which is an open-source, self-hosted, personal/family electronic medical record aggregator,
+designed to integrate with 1000's of insurances/hospitals/clinics. 
+He wanted the software to be ->
+1. Self hosted/Offline - as he was not willing to give his medical history to some random multi-national corporation to data-mine
+and sell.
+2. Automatic - it would pull his EMR (electronic medical record) directly from his insurance provider/clinic/hospital network.
+3. Open Source - the code should be available for contributions & auditing
+
+Fasten is pretty basic right now, but it's designed with a easily extensible core around a solid foundation.
+Author describes 2 versions of Fasten
+1. First Version - This version only allows you to connect to a handful of Healthcare providers, using Sandbox accounts that are meant for testing, and contain synthetic(fake) data to give you an idea what Fasten will look like, without requiring personal medical information.
+2. Second Version - This version allows you to connect to 650+ different Healthcare providers, using your existing accounts. It will allow you to connect and retrieve your personal electronic medical record and store it within Fasten. 
+
+Next he explained certain commands - docker pull ghcr.io/fastenhealth/fasten-onprem:main 
+docker run --rm -p 9090:8080 ghcr.io/fastenhealth/fasten-onprem:main 
+By using these commands we can download and start the Fasten docker container.
+Jason used SemVer for versioning. 
+Author got an idea to develop this aggregator when he was suffering from semi-serious medical issue and when he realized his medical history
+is lot more complicated than he thinks.
+
+
+
+
 
