@@ -1,2 +1,0 @@
-In our CS courses, we were already introduced to the fundamentals of shell scripting, making this course more of a refresher.
-However, we hadn't covered the topic of variables in scripts before, so it was intriguing to delve into that aspect and expand our knowledge in this area.

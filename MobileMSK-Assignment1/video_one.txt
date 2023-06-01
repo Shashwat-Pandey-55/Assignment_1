@@ -1,8 +1,0 @@
-In the initial video, I learned Python right from the beginning.
-It covered variables, strings, control statements, and lists (or arrays).
-The learning process was smooth for me, given my experience with less beginner-friendly languages like C and Java.
-I was surprised by Python's versatility and its ease of handling data.
-The availability of libraries further simplified coding, eliminating the need to reinvent the wheel.
-The first project involved manipulating data in an Excel file, which was made simple with the help of libraries.
-Similarly, the machine learning project provided pre-implemented functions for ease of use.
-The Django project posed a greater challenge, as I have prior experience with plain HTML, CSS, and JS, but with practice, I'm confident it will become easier to grasp.

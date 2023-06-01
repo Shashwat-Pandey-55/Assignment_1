@@ -1,6 +1,0 @@
-The third video on Git and GitHub was really helpful.
-It taught me the basics of Git and what it's used for.
-I learned about cloning, committing, adding, and pushing.
-It was eye-opening because I realized I wasn't using GitHub efficiently before this course.
-Now, I have a better understanding of how to make the most of GitHub for collaboration and version control.
-Overall, it was a valuable learning experience that improved my skills in using Git and GitHub effectively.
