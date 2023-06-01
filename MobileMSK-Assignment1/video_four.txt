@@ -1,0 +1,4 @@
+The fourth video didn't offer much new information compared to the first video, as both had similar topics covered by the same instructors.
+However, it did provide a more in-depth explanation of Python methods.
+It covered familiar concepts such as variables, strings, control statements, and lists (or arrays), along with the introduction of tuples and the range function.
+While there was some repetition, the detailed exploration of Python methods contributed to a deeper understanding of these concepts.
