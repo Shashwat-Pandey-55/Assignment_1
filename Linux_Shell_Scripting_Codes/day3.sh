@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#THIS SCRIPT IS USED FOR VARIABLE PRACTICE.
+
+#ASSIGN A VALUE TO A VARIABE.
+WORD="script"
+echo "${WORD}ing is fun!"
+
+#CHANGE THE VALUE OF VARIABLE WORD (REASSIGNMENT).
+WORD="read"
+echo "${WORD}ing is fun!"
