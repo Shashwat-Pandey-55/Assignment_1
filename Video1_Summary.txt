@@ -1,0 +1,9 @@
+In the first video, I start at the very beginning of Python's learning process.
+The topics included lists (or arrays), variables, strings, and control statements.
+Being familiar with other, less beginner-friendly languages like C and Java helped me breeze through the learning process.
+Python's adaptability and simplicity in data management impressed me.
+Libraries reduced complexity in the coding process by removing the need to start from scratch.
+This was demonstrated in the first project, which utilised libraries to make Excel file data manipulation a breeze.
+The machine learning project also included ready-made features to cut down on development time.
+Since I'm more familiar with standard HTML, CSS, and JS, the Django project presented a greater challenge. However, I'm positive that
+I'll soon feel comfortable working in the framework.
